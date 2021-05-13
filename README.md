@@ -16,3 +16,9 @@
 7. Update the weights by subtracting corresponding gradients with respect to total error and multiply by the factor of learning rate.
 8. Once all the weight are updated calculate new predictions and corresponding error.
 9. repeat steps 4-8 till the error value converges.
+
+### Effect of change in Learning Rates - [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
+
+##### We can see with increase in learning rate the decline in error is steep and it converges faster.
+
+![Screenshot](Screenshot3.JPG)
