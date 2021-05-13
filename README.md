@@ -8,7 +8,7 @@
 
 ### Steps for training NN using Backpropagation. Forward propagation added for completeness
 1. Initialize the weights for all edges.
-2. Feed forward the edges along with activation functions and predict the output.
+2. Feed forward the NN using inputs,edge weights along with activation functions and predict the output.
 3. Finalize on a learning rate.
 4. Calculate the prediction error.
 5. Take gradient of the error with respect to weight edges.
