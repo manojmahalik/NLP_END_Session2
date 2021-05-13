@@ -1,3 +1,3 @@
-# NLP_END_Session2
+# Backpropagation In Neural Networks
 
 ![Screenshot](Screenshot1.JPG)
